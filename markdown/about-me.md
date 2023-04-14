@@ -2,23 +2,24 @@
 
 ## Biography
 
-Hey there! I'm a ~~dragon lost in human world~~ [Computer Science](https://www.bu.edu/cs/) master's student at [Boston University](https://www.bu.edu/). Before that, I got my bachelor's degree in [Software Engineering](http://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/).
+Hey there! I received my master's degree in [Computer Science](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/) and bachelor's degree in [Software Engineering](http://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/).
 
 I'm trying to find a balance between research and engineering.
 
-My research interests lie primarily in exploring the capability of machines to be continual, generalizable and data-efficient, like continual learning, meta-learning and few-shot learning. I also have experience in vision-language learning and video understanding.
+My current research interests lie primarily in understanding and improving continuity, generalizability, efficiency and other key properties of machine learning. I'm also interested in vision-language and video models.
 
-I'm also learning to build machine learning softwares and systems. I'm also learning TypeScript, React and Vue.
+I'm also learning web development and building machine learning softwares and systems.
 
 
 ## Contact
 
 Contact me by:
 
-- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com) / [xiaohan.zou@foxmail.com](mailto:xiaohan.zou@foxmail.com)
+- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com)
 - Github: [@Renovamen](https://github.com/Renovamen)
+- [Google Scholar](https://scholar.google.com/citations?user=RuW6xgMAAAAJ)
 - Linkedin: [xiaohan-zou](https://www.linkedin.com/in/xiaohan-zou)
-- 知乎: [@Renovamen](https://www.zhihu.com/people/chao-neng-gui-su)
+- 知乎: [@西伯利亚大恶龙](https://www.zhihu.com/people/chao-neng-gui-su)
 - Personal Website: [zxh.io](https://zxh.io)
 
 
